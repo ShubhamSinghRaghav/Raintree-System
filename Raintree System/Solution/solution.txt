@@ -1,0 +1,1000 @@
+23-11-2011
+
+Computer Name     No of Drops
+KCUTSHALL-PC 58
+Computer Name     No of Disconnects
+KCUTSHALL-PC 2
+FRONTOFFICE 1
+PELHAMLAPTOP 1
+Computer Name     No of Average Limit
+KCUTSHALL-PC 185
+
+24-11-2011
+
+Computer Name     No of Drops
+Computer Name     No of Disconnects
+APT 2
+NITIN 1
+Computer Name     No of Average Limit
+
+25-11-2011
+
+Computer Name     No of Drops
+Computer Name     No of Disconnects
+APT 2
+Computer Name     No of Average Limit
+
+28-11-2011
+
+Computer Name     No of Drops
+KCUTSHALL-PC 25
+COMPUTER2 7
+PELHAMLAPTOP 3
+Computer Name     No of Disconnects
+KCUTSHALL-PC 6
+COMPUTER2 3
+PELHAMLAPTOP 3
+BETHGARWICK 3
+APT 2
+APTOFFICE 1
+APTPELHAM 1
+CHELLAPTOP2 1
+FRONTOFFICE 1
+FRONTOFFICEPELH 1
+Computer Name     No of Average Limit
+KCUTSHALL-PC 140
+JESSICA-PC 6
+
+29-11-2011
+
+Computer Name     No of Drops
+KCUTSHALL-PC 26
+APTOFFICE 11
+Computer Name     No of Disconnects
+APTOFFICE 3
+BETHGARWICK 2
+KCUTSHALL-PC 1
+585-0757 1
+Computer Name     No of Average Limit
+FRONTOFFICEPELH 27
+APTPELHAM 20
+PELHAMLAPTOP 10
+KCUTSHALL-PC 3
+
+30-11-2011
+
+Computer Name     No of Drops
+CHELLAPTOP2 139
+FRONTOFFICE 69
+APTOFFICE 6
+KCUTSHALL-PC 2
+Computer Name     No of Disconnects
+APTOFFICE 3
+PELHAMLAPTOP 2
+CHELLAPTOP2 1
+FRONTOFFICE 1
+BETHGARWICK 1
+Computer Name     No of Average Limit
+
+01-12-2011
+
+Computer Name     No of Drops
+PELHAMLAPTOP 5
+Computer Name     No of Disconnects
+BETHGARWICK 4
+PELHAMLAPTOP 2
+APTMOODY 1
+CHELLAPTOP2 1
+FRONTOFFICE 1
+Computer Name     No of Average Limit
+
+02-12-2011
+
+Computer Name     No of Drops
+Computer Name     No of Disconnects
+BETHGARWICK 4
+Computer Name     No of Average Limit
+
+04-12-2011
+
+Computer Name     No of Drops
+Computer Name     No of Disconnects
+BETHGARWICK 1
+Computer Name     No of Average Limit
+
+05-12-2011
+
+Computer Name     No of Drops
+APTOFFICE 3
+PELHAMLAPTOP 1
+Computer Name     No of Disconnects
+PELHAMLAPTOP 2
+APTOFFICE 1
+BETHGARWICK 1
+Computer Name     No of Average Limit
+
+06-12-2011
+
+Computer Name     No of Drops
+CHELLAPTOP2 4
+APTOFFICE 2
+Computer Name     No of Disconnects
+MOODYLAPTOP 2
+CHELLAPTOP2 1
+APTOFFICE 1
+BETHGARWICK 1
+Computer Name     No of Average Limit
+
+07-12-2011
+
+Computer Name     No of Drops
+APTOFFICE 6
+PELHAMLAPTOP 1
+Computer Name     No of Disconnects
+APTOFFICE 2
+PELHAMLAPTOP 2
+BETHGARWICK 2
+Computer Name     No of Average Limit
+
+08-12-2011
+
+Computer Name     No of Drops
+PELHAMLAPTOP 1
+Computer Name     No of Disconnects
+FRONTOFFICE 4
+MOODYLAPTOP 3
+PELHAMLAPTOP 2
+APTMOODY 2
+APTOFFICE 1
+BETHGARWICK 1
+CHELLAPTOP2 1
+EMMETT-THINK 1
+FRONTOFFICEPELH 1
+KCUTSHALL-PC 1
+Computer Name     No of Average Limit
+
+09-12-2011
+
+Computer Name     No of Drops
+Computer Name     No of Disconnects
+MOODYLAPTOP 1
+PELHAMLAPTOP 1
+Computer Name     No of Average Limit
+
+12-12-2011
+
+Computer Name     No of Drops
+PELHAMLAPTOP 3
+APTPELHAM 2
+FRONTOFFICEPELH 2
+COMPUTER2 1
+Computer Name     No of Disconnects
+COMPUTER2 2
+PELHAMLAPTOP 1
+APTPELHAM 1
+FRONTOFFICEPELH 1
+APTOFFICE 1
+BETHGARWICK 1
+Computer Name     No of Average Limit
+
+13-12-2011
+
+Computer Name     No of Drops
+APTMOODY 3
+PELHAMLAPTOP 3
+APTOFFICE 1
+Computer Name     No of Disconnects
+PELHAMLAPTOP 5
+APTMOODY 3
+APTOFFICE 3
+APTTRUSSVILLE 2
+BETHGARWICK 1
+CHELLAPTOP2 1
+FRONTOFFICE 1
+Computer Name     No of Average Limit
+KCUTSHALL-PC 4
+
+14-12-2011
+
+Computer Name     No of Drops
+APTMOODY 8
+KARIPC 6
+APTOFFICE 3
+Computer Name     No of Disconnects
+APTMOODY 9
+KARIPC 1
+APTOFFICE 1
+APTTRUSSVILLE 1
+EMMETT-THINK 1
+FRONTOFFICE 1
+KCUTSHALL-PC 1
+Computer Name     No of Average Limit
+KARIPC 11
+PELHAMLAPTOP 9
+
+15-12-2011
+
+Computer Name     No of Drops
+APTOFFICE 3
+Computer Name     No of Disconnects
+KCUTSHALL-PC 4
+APTTRUSSVILLE 3
+BETHGARWICK 2
+APTOFFICE 1
+APTMOODY 1
+Computer Name     No of Average Limit
+
+16-12-2011
+
+Computer Name     No of Drops
+PHOENIX 37
+APTOFFICE 1
+Computer Name     No of Disconnects
+APTOFFICE 3
+EMMETT-THINK 2
+MOODYLAPTOP 2
+APTPELHAM 1
+COMPUTER2 1
+FRONTOFFICEPELH 1
+KCUTSHALL-PC 1
+Computer Name     No of Average Limit
+PHOENIX 139
+
+19-12-2011
+
+Computer Name     No of Drops
+APTOFFICE 1
+Computer Name     No of Disconnects
+CHELLAPTOP2 2
+APTOFFICE 1
+Computer Name     No of Average Limit
+
+20-12-2011
+
+Computer Name     No of Drops
+KCUTSHALL-PC 40
+PELHAMLAPTOP 8
+APTOFFICE 6
+Computer Name     No of Disconnects
+PELHAMLAPTOP 6
+BETHGARWICK 5
+APTMOODY 4
+APTOFFICE 2
+FRONTOFFICE 2
+APTPELHAM 1
+CHELLAPTOP2 1
+CLAYTON-PC 1
+FRONTOFFICEPELH 1
+MOODYLAPTOP 1
+OWNER-BC8810E49 1
+Computer Name     No of Average Limit
+
+21-12-2011
+
+Computer Name     No of Drops
+LAPTOP2 5
+APTOFFICE 3
+Computer Name     No of Disconnects
+LAPTOP2 4
+PELHAMLAPTOP 2
+APTOFFICE 1
+BETHGARWICK 1
+Computer Name     No of Average Limit
+
+22-12-2011
+
+Computer Name     No of Drops
+KCUTSHALL-PC 77
+PHOENIX 13
+FRONTOFFICE 1
+Computer Name     No of Disconnects
+FRONTOFFICE 1
+APTMOODY 1
+Computer Name     No of Average Limit
+KCUTSHALL-PC 2378
+
+27-12-2011
+
+Computer Name     No of Drops
+LAPTOP2 2
+Computer Name     No of Disconnects
+MOODYLAPTOP 1
+OWNER-BC8810E49 1
+Computer Name     No of Average Limit
+
+28-12-2011
+
+Computer Name     No of Drops
+APTOFFICE 4
+Computer Name     No of Disconnects
+EMMETT-THINK 2
+APTOFFICE 1
+MOODYLAPTOP 1
+OWNER-BC8810E49 1
+Computer Name     No of Average Limit
+
+29-12-2011
+
+Computer Name     No of Drops
+LAPTOP2 2
+Computer Name     No of Disconnects
+LAPTOP2 2
+APTMOODY 2
+OWNER-BC8810E49 2
+APTPELHAM 1
+MOODYLAPTOP 1
+Computer Name     No of Average Limit
+
+30-12-2011
+
+Computer Name     No of Drops
+EMMETT-THINK 50
+Computer Name     No of Disconnects
+EMMETT-THINK 3
+OWNER-BC8810E49 3
+PELHAMLAPTOP 3
+APTPELHAM 1
+MOODYLAPTOP 1
+Computer Name     No of Average Limit
+
+01-01-2012
+
+Computer Name     No of Drops
+EMMETT-THINK 2
+Computer Name     No of Disconnects
+Computer Name     No of Average Limit
+
+02-01-2012
+
+Computer Name     No of Drops
+APTPELHAM 2
+Computer Name     No of Disconnects
+APTPELHAM 1
+Computer Name     No of Average Limit
+
+03-01-2012
+
+Computer Name     No of Drops
+KCUTSHALL-PC 11
+APTOFFICE 7
+APTPELHAM 3
+Computer Name     No of Disconnects
+APTOFFICE 2
+CLAYTON-PC 2
+COMPUTER2 1
+PELHAMLAPTOP 1
+Computer Name     No of Average Limit
+
+04-01-2012
+
+Computer Name     No of Drops
+PELHAMLAPTOP 4
+APTOFFICE 3
+Computer Name     No of Disconnects
+PELHAMLAPTOP 3
+APTTRUSSVILLE 3
+OWNER-BC8810E49 3
+APTOFFICE 2
+Computer Name     No of Average Limit
+
+05-01-2012
+
+Computer Name     No of Drops
+KCUTSHALL-PC 24
+Computer Name     No of Disconnects
+KCUTSHALL-PC 2
+APTMOODY 1
+APTPELHAM 1
+APTTRUSSVILLE 1
+Computer Name     No of Average Limit
+KCUTSHALL-PC 125
+JESSICA-PC 7
+
+06-01-2012
+
+Computer Name     No of Drops
+Computer Name     No of Disconnects
+PELHAMLAPTOP 1
+Computer Name     No of Average Limit
+
+09-01-2012
+
+Computer Name     No of Drops
+KCUTSHALL-PC 14
+APTOFFICE 3
+LAPTOP2 1
+Computer Name     No of Disconnects
+APTOFFICE 2
+KCUTSHALL-PC 1
+LAPTOP2 1
+BETHGARWICK 1
+Computer Name     No of Average Limit
+
+10-01-2012
+
+Computer Name     No of Drops
+FRONTOFFICE 98
+KCUTSHALL-PC 35
+JESSICA-PC 1
+Computer Name     No of Disconnects
+KCUTSHALL-PC 1
+OWNER-BC8810E49 1
+Computer Name     No of Average Limit
+KCUTSHALL-PC 611
+JESSICA-PC 35
+
+11-01-2012
+
+Computer Name     No of Drops
+APTOFFICE 4
+Computer Name     No of Disconnects
+PELHAMLAPTOP 4
+KCUTSHALL-PC 3
+APTOFFICE 1
+BETHGARWICK 1
+CHELLAPTOP2 1
+COMPUTER2 1
+Computer Name     No of Average Limit
+PELHAMLAPTOP 17
+FRONTOFFICEPELH 4
+APTPELHAM 3
+KCUTSHALL-PC 2
+
+12-01-2012
+
+Computer Name     No of Drops
+PELHAMLAPTOP 1
+Computer Name     No of Disconnects
+PELHAMLAPTOP 6
+BETHGARWICK 2
+APTMOODY 1
+Computer Name     No of Average Limit
+
+13-01-2012
+
+Computer Name     No of Drops
+CHELLAPTOP2 3
+Computer Name     No of Disconnects
+PELHAMLAPTOP 4
+OWNER-BC8810E49 3
+CHELLAPTOP2 2
+APTOFFICE 2
+APTMOODY 1
+FRONTOFFICE 1
+FRONTOFFICEPELH 1
+Computer Name     No of Average Limit
+
+15-01-2012
+
+Computer Name     No of Drops
+Computer Name     No of Disconnects
+CHELLAPTOP2 1
+Computer Name     No of Average Limit
+
+16-01-2012
+
+Computer Name     No of Drops
+APTOFFICE 6
+Computer Name     No of Disconnects
+APTOFFICE 3
+KCUTSHALL-PC 3
+MOODYLAPTOP 3
+APTTRUSSVILLE 2
+LAPTOP2 2
+APTMOODY 1
+APTPELHAM 1
+BETHGARWICK 1
+CHELLAPTOP2 1
+FRONTOFFICE 1
+FRONTOFFICEPELH 1
+OWNER-BC8810E49 1
+PELHAMLAPTOP 1
+Computer Name     No of Average Limit
+
+17-01-2012
+
+Computer Name     No of Drops
+APTOFFICE 4
+PELHAMLAPTOP 1
+Computer Name     No of Disconnects
+APTOFFICE 1
+BETHGARWICK 1
+CHELLAPTOP2 1
+FRONTOFFICE 1
+Computer Name     No of Average Limit
+PELHAMLAPTOP 7
+
+18-01-2012
+
+Computer Name     No of Drops
+APTOFFICE 2
+PELHAMLAPTOP 1
+Computer Name     No of Disconnects
+APTOFFICE 1
+PELHAMLAPTOP 1
+APTPELHAM 1
+APTTRUSSVILLE 1
+FRONTOFFICE 1
+MOODYLAPTOP 1
+Computer Name     No of Average Limit
+
+19-01-2012
+
+Computer Name     No of Drops
+PELHAMLAPTOP 1
+Computer Name     No of Disconnects
+PELHAMLAPTOP 2
+FRONTOFFICE 1
+Computer Name     No of Average Limit
+PELHAMLAPTOP 9
+APTPELHAM 3
+FRONTOFFICEPELH 2
+
+20-01-2012
+
+Computer Name     No of Drops
+Computer Name     No of Disconnects
+PELHAMLAPTOP 2
+Computer Name     No of Average Limit
+
+22-01-2012
+
+Computer Name     No of Drops
+Computer Name     No of Disconnects
+BETHGARWICK 1
+Computer Name     No of Average Limit
+
+23-01-2012
+
+Computer Name     No of Drops
+PHOENIX 4
+Computer Name     No of Disconnects
+CHELLAPTOP2 2
+OWNER-BC8810E49 2
+PELHAMLAPTOP 2
+PHOENIX 1
+BETHGARWICK 1
+Computer Name     No of Average Limit
+PHOENIX 77
+
+24-01-2012
+
+Computer Name     No of Drops
+APTOFFICE 7
+COMPUTER1 3
+APTTRUSSVILLE 2
+Computer Name     No of Disconnects
+PELHAMLAPTOP 5
+BETHGARWICK 4
+APTOFFICE 3
+APTTRUSSVILLE 2
+OWNER-BC8810E49 2
+PHOENIX 2
+COMPUTER1 1
+Computer Name     No of Average Limit
+PHOENIX 8
+APTOFFICE 2
+
+25-01-2012
+
+Computer Name     No of Drops
+APTOFFICE 18
+COMPUTER1 6
+APTTRUSSVILLE 2
+Computer Name     No of Disconnects
+APTOFFICE 9
+APTMOODY 2
+PELHAMLAPTOP 2
+COMPUTER1 1
+APTPELHAM 1
+BETHGARWICK 1
+MOODYLAPTOP 1
+Computer Name     No of Average Limit
+PELHAMLAPTOP 12
+APTOFFICE 4
+
+26-01-2012
+
+Computer Name     No of Drops
+APTOFFICE 7
+BETHGARWICK 5
+COMPUTER1 5
+Computer Name     No of Disconnects
+BETHGARWICK 7
+APTOFFICE 2
+COMPUTER1 1
+APTTRUSSVILLE 1
+PELHAMLAPTOP 1
+Computer Name     No of Average Limit
+APTPELHAM 3
+FRONTOFFICEPELH 1
+
+27-01-2012
+
+Computer Name     No of Drops
+EMMETT-THINK 4
+Computer Name     No of Disconnects
+EMMETT-THINK 2
+FRONTOFFICE 2
+MOODYLAPTOP 2
+PELHAMLAPTOP 2
+APTTRUSSVILLE 1
+Computer Name     No of Average Limit
+
+30-01-2012
+
+Computer Name     No of Drops
+APTOFFICE 4
+Computer Name     No of Disconnects
+PELHAMLAPTOP 4
+APTOFFICE 2
+APTTRUSSVILLE 2
+MOODYLAPTOP 1
+Computer Name     No of Average Limit
+APTOFFICE 2
+
+31-01-2012
+
+Computer Name     No of Drops
+APTOFFICE 6
+Computer Name     No of Disconnects
+PELHAMLAPTOP 4
+APTOFFICE 2
+APTTRUSSVILLE 1
+MOODYLAPTOP 1
+OWNER-BC8810E49 1
+Computer Name     No of Average Limit
+PELHAMLAPTOP 26
+APTPELHAM 4
+FRONTOFFICEPELH 4
+
+01-02-2012
+
+Computer Name     No of Drops
+APTOFFICE 3
+Computer Name     No of Disconnects
+OWNER-BC8810E49 6
+APTOFFICE 1
+APTTRUSSVILLE 1
+CHELLAPTOP2 1
+Computer Name     No of Average Limit
+
+02-02-2012
+
+Computer Name     No of Drops
+APTOFFICE 3
+APTPELHAM 3
+Computer Name     No of Disconnects
+BETHGARWICK 5
+APTOFFICE 1
+APTPELHAM 1
+KCUTSHALL-PC 1
+MOODYLAPTOP 1
+OWNER-BC8810E49 1
+Computer Name     No of Average Limit
+
+03-02-2012
+
+Computer Name     No of Drops
+Computer Name     No of Disconnects
+FRONTDESK-PC 3
+BETHGARWICK 2
+MOODYLAPTOP 1
+Computer Name     No of Average Limit
+
+06-02-2012
+
+Computer Name     No of Drops
+Computer Name     No of Disconnects
+APTTRUSSVILLE 2
+BETHGARWICK 2
+PELHAMLAPTOP 1
+Computer Name     No of Average Limit
+FRONTOFFICEPELH 2
+
+07-02-2012
+
+Computer Name     No of Drops
+PELHAMLAPTOP 5
+APTMOODY 3
+APTOFFICE 3
+MOODYLAPTOP 3
+Computer Name     No of Disconnects
+PELHAMLAPTOP 3
+APTTRUSSVILLE 3
+APTOFFICE 2
+MOODYLAPTOP 2
+APTMOODY 1
+CHELLAPTOP2 1
+Computer Name     No of Average Limit
+
+08-02-2012
+
+Computer Name     No of Drops
+APTOFFICE 3
+Computer Name     No of Disconnects
+KCUTSHALL-PC 3
+OWNER-BC8810E49 2
+PELHAMLAPTOP 2
+APTOFFICE 1
+APTTRUSSVILLE 1
+Computer Name     No of Average Limit
+
+09-02-2012
+
+Computer Name     No of Drops
+LONEWOLF 5
+Computer Name     No of Disconnects
+BETHGARWICK 1
+EMMETT-THINK 1
+Computer Name     No of Average Limit
+
+10-02-2012
+
+Computer Name     No of Drops
+APTOFFICE 41
+CHELLAPTOP2 2
+FRONTOFFICE 2
+Computer Name     No of Disconnects
+MOODYLAPTOP 4
+APTOFFICE 3
+EMMETT-THINK 1
+FRONTDESK-PC 1
+Computer Name     No of Average Limit
+APTPELHAM 1
+
+11-02-2012
+
+Computer Name     No of Drops
+APTPELHAM 20
+Computer Name     No of Disconnects
+APTPELHAM 1
+Computer Name     No of Average Limit
+
+13-02-2012
+
+Computer Name     No of Drops
+APTOFFICE 18
+Computer Name     No of Disconnects
+APTOFFICE 1
+APTMOODY 1
+BETHGARWICK 1
+Computer Name     No of Average Limit
+APTOFFICE 18
+
+14-02-2012
+
+Computer Name     No of Drops
+APTOFFICE 6
+Computer Name     No of Disconnects
+APTTRUSSVILLE 5
+OWNER-BC8810E49 4
+APTOFFICE 2
+APTMOODY 1
+EMMETT-THINK 1
+Computer Name     No of Average Limit
+APTOFFICE 4
+
+15-02-2012
+
+Computer Name     No of Drops
+APTOFFICE 48
+Computer Name     No of Disconnects
+APTOFFICE 4
+APTTRUSSVILLE 1
+Computer Name     No of Average Limit
+APTPELHAM 94
+APTOFFICE 13
+
+16-02-2012
+
+Computer Name     No of Drops
+Computer Name     No of Disconnects
+APTOFFICE 2
+OWNER-BC8810E49 1
+Computer Name     No of Average Limit
+APTPELHAM 24
+FRONTOFFICEPELH 2
+
+17-02-2012
+
+Computer Name     No of Drops
+APTOFFICE 3
+Computer Name     No of Disconnects
+MOODYLAPTOP 2
+APTOFFICE 1
+APTTRUSSVILLE 1
+BETHGARWICK 1
+Computer Name     No of Average Limit
+FRONTOFFICEPELH 1
+
+20-02-2012
+
+Computer Name     No of Drops
+FRONTDESK-PC 17
+APTOFFICE 12
+Computer Name     No of Disconnects
+OWNER-BC8810E49 2
+FRONTDESK-PC 1
+APTOFFICE 1
+BETHGARWICK 1
+COMPUTER1 1
+MOODYLAPTOP 1
+Computer Name     No of Average Limit
+APTOFFICE 11
+OWNER-BC8810E49 3
+APTPELHAM 1
+FRONTOFFICEPELH 1
+
+21-02-2012
+
+Computer Name     No of Drops
+APTOFFICE 15
+Computer Name     No of Disconnects
+APTOFFICE 1
+APTTRUSSVILLE 1
+FRONTOFFICEPELH 1
+Computer Name     No of Average Limit
+APTOFFICE 13
+FRONTOFFICEPELH 3
+APTPELHAM 3
+
+22-02-2012
+
+Computer Name     No of Drops
+TOOMASA-PC 6
+FRONTOFFICE 2
+Computer Name     No of Disconnects
+MOODYLAPTOP 2
+OWNER-BC8810E49 2
+FRONTOFFICE 1
+APTOFFICE 1
+BETHGARWICK 1
+COMPUTER1 1
+Computer Name     No of Average Limit
+
+23-02-2012
+
+Computer Name     No of Drops
+APTOFFICE 53
+Computer Name     No of Disconnects
+APTOFFICE 2
+FRONTOFFICE 1
+OWNER-BC8810E49 1
+Computer Name     No of Average Limit
+APTOFFICE 52
+
+24-02-2012
+
+Computer Name     No of Drops
+EMMETT-THINK 92
+Computer Name     No of Disconnects
+MOODYLAPTOP 3
+OWNER-BC8810E49 3
+FRONTOFFICEPELH 2
+EMMETT-THINK 1
+APTOFFICE 1
+APTPELHAM 1
+Computer Name     No of Average Limit
+
+26-02-2012
+
+Computer Name     No of Drops
+Computer Name     No of Disconnects
+Computer Name     No of Average Limit
+APTPELHAM 2
+
+27-02-2012
+
+Computer Name     No of Drops
+FRONTOFFICEPELH 84
+APTPELHAM 17
+Computer Name     No of Disconnects
+OWNER-BC8810E49 3
+BETHGARWICK 2
+FRONTOFFICEPELH 1
+APTOFFICE 1
+APTTRUSSVILLE 1
+FRONTOFFICE 1
+Computer Name     No of Average Limit
+FRONTOFFICEPELH 44
+APTPELHAM 35
+
+28-02-2012
+
+Computer Name     No of Drops
+APTOFFICE 18
+Computer Name     No of Disconnects
+APTOFFICE 2
+APTMOODY 1
+APTPELHAM 1
+BETHGARWICK 1
+Computer Name     No of Average Limit
+APTOFFICE 16
+FRONTOFFICEPELH 3
+
+29-02-2012
+
+Computer Name     No of Drops
+APTOFFICE 25
+CHELLAPTOP2 2
+FRONTOFFICE 2
+OWNER-BC8810E49 2
+Computer Name     No of Disconnects
+FRONTOFFICE 3
+BETHGARWICK 3
+APTOFFICE 2
+CHELLAPTOP2 1
+OWNER-BC8810E49 1
+APTMOODY 1
+Computer Name     No of Average Limit
+APTOFFICE 21
+FRONTOFFICEPELH 3
+APTPELHAM 2
+
+01-03-2012
+
+Computer Name     No of Drops
+KCUTSHALL-PC 157
+MOODYLAPTOP 99
+APTOFFICE 57
+APTMOODY 54
+Computer Name     No of Disconnects
+APTOFFICE 3
+BETHGARWICK 3
+OWNER-BC8810E49 3
+KCUTSHALL-PC 2
+MOODYLAPTOP 2
+APTMOODY 2
+APTTRUSSVILLE 1
+Computer Name     No of Average Limit
+KCUTSHALL-PC 3124
+APTOFFICE 30
+APTPELHAM 2
+FRONTOFFICEPELH 2
+
+02-03-2012
+
+Computer Name     No of Drops
+Computer Name     No of Disconnects
+BETHGARWICK 3
+APTOFFICE 1
+FRONTOFFICE 1
+Computer Name     No of Average Limit
+FRONTOFFICEPELH 35
+APTPELHAM 14
+
+05-03-2012
+
+Computer Name     No of Drops
+FRONTDESK-PC 44
+APTTRUSSVILLE 30
+APTOFFICE 23
+COMPUTER1 10
+Computer Name     No of Disconnects
+FRONTDESK-PC 3
+APTOFFICE 3
+COMPUTER1 2
+APTTRUSSVILLE 1
+BETHGARWICK 1
+Computer Name     No of Average Limit
+APTOFFICE 7
+
+06-03-2012
+
+Computer Name     No of Drops
+APTPELHAM 52
+APTOFFICE 37
+KCUTSHALL-PC 11
+Computer Name     No of Disconnects
+APTOFFICE 3
+BETHGARWICK 3
+KCUTSHALL-PC 2
+FRONTDESK-PC 1
+FRONTOFFICEPELH 1
+Computer Name     No of Average Limit
+KCUTSHALL-PC 770
+APTPELHAM 87
+FRONTOFFICEPELH 62
+APTOFFICE 38
+
